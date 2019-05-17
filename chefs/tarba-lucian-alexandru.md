@@ -1,3 +1,4 @@
 Iancu daca talent,oricine a demonstrat tuturor->Gheorghe Hagi
-salut
+=======
 
+## NU MAI FACETI SCHIMBARI!
