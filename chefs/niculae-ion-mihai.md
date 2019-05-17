@@ -1,0 +1,1 @@
+un citat care ne place
